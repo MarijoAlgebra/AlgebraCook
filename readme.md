@@ -67,7 +67,7 @@ __
 
  * napravite commit:
 		
-			git commit -m 'inicijalni commit'
+			git commit -m 'Inicijalni commit'
 
  * uploadajte promjene na GitHub repo (upišite username/pass kad Vas zatraži):
 		
