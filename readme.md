@@ -53,6 +53,7 @@ __
 1. Stvoriti odgovarajuće kontrolere za Recipe i User (php artisan make:controller) sa potrebnim metodama
 		
 		app\Http\Controllers
+		
 
 1. Ukoliko već niste - registrirati se na GitHub.com, i stvorite novi repozitorij AlgebraCook.
 
@@ -76,3 +77,8 @@ __
 		
 		git status
 		
+
+1. Stvorite novi _branch_ (granu), i dodajte funkcionalnost brisanja recepata
+		
+		git branch deleteft
+		git checkout deleteft
