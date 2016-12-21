@@ -55,7 +55,7 @@ __
 		app\Http\Controllers
 		
 
-1. Ukoliko već niste - registrirati se na GitHub.com, i stvorite novi repozitorij AlgebraCook.
+1. Ukoliko već niste - registrirajte se na GitHub.com, i stvorite novi repozitorij AlgebraCook.
 
  * podesite Vaš repozitorij da bude origin projekta:
 		
