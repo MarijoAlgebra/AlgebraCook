@@ -59,31 +59,34 @@ __
 
  * podesite Vaš repozitorij da bude origin projekta:
 		
-		git remote set-url origin https://github.com/VASEKORISNIKOIME/AlgebraCook.git
+			git remote set-url origin https://github.com/VASEKORISNIKOIME/AlgebraCook.git
 
  * dodajte datoteke u index:
 		
-		git add -A
+			git add -A
 
  * napravite commit:
 		
-		git commit -m 'inicijalni commit'
+			git commit -m 'inicijalni commit'
 
  * uploadajte promjene na GitHub repo (upišite username/pass kad Vas zatraži):
 		
-		git push
+			git push
 
  * provjertite status:
 		
-		git status
+			git status
 		
 
 1. Stvorite novi _branch_ (granu), i dodajte funkcionalnost brisanja recepata
 		
-		git branch deleteft
-		git checkout deleteft
+			git branch deleteft
+			git checkout deleteft
 
  * napravite merge i commit na Vaš GitHub repo:
 		
-		git checkout master
-		git merge deleteft
+			git checkout master
+			git merge deleteft
+			
+			
+			
