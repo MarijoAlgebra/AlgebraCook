@@ -82,3 +82,8 @@ __
 		
 		git branch deleteft
 		git checkout deleteft
+
+ * napravite merge i commit na Vaš GitHub repo:
+		
+		git checkout master
+		git merge deleteft
