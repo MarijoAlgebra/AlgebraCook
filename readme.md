@@ -54,4 +54,25 @@ __
 		
 		app\Http\Controllers
 
+1. Ukoliko već niste - registrirati se na GitHub.com, i stvorite novi repozitorij AlgebraCook.
+
+ * podesite Vaš repozitorij da bude origin projekta:
+		
+		git remote set-url origin https://github.com/VASEKORISNIKOIME/AlgebraCook.git
+
+ * dodajte datoteke u index:
+		
+		git add -A
+
+ * napravite commit:
+		
+		git commit -m 'inicijalni commit'
+
+ * uploadajte promjene na GitHub repo (upišite username/pass kad Vas zatraži):
+		
+		git push
+
+ * provjertite status:
+		
+		git status
 		
